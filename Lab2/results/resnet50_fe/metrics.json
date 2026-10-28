@@ -1,0 +1,15 @@
+{
+  "model": "resnet50_fe",
+  "img": 224,
+  "lr": 0.001,
+  "epochs": 15,
+  "augment": true,
+  "params": 23551061,
+  "trainable": 43029,
+  "best_epoch": 15,
+  "sec_per_epoch": 6.872122780481974,
+  "accuracy": 0.618228075426519,
+  "precision": 0.6455275667215472,
+  "recall": 0.6227893739163656,
+  "f1": 0.6228793681897007
+}

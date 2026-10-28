@@ -1,0 +1,15 @@
+{
+  "model": "googlenet",
+  "img": 64,
+  "lr": 0.001,
+  "epochs": 100,
+  "augment": true,
+  "params": 541773,
+  "trainable": 541773,
+  "best_epoch": 81,
+  "sec_per_epoch": 2.904497787952423,
+  "accuracy": 0.6493564800957797,
+  "precision": 0.6610077710307953,
+  "recall": 0.6491340872854862,
+  "f1": 0.64823108043155
+}

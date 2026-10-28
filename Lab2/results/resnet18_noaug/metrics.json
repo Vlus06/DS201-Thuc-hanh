@@ -1,0 +1,15 @@
+{
+  "model": "resnet18_noaug",
+  "img": 96,
+  "lr": 0.001,
+  "epochs": 100,
+  "augment": false,
+  "params": 11187285,
+  "trainable": 11187285,
+  "best_epoch": 58,
+  "sec_per_epoch": 2.2760506439208985,
+  "accuracy": 0.4500149655791679,
+  "precision": 0.4408022907179948,
+  "recall": 0.4369765385883482,
+  "f1": 0.43702252001926084
+}

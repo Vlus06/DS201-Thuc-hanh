@@ -1,0 +1,15 @@
+{
+  "model": "resnet18_aug",
+  "img": 96,
+  "lr": 0.001,
+  "epochs": 100,
+  "augment": true,
+  "params": 11187285,
+  "trainable": 11187285,
+  "best_epoch": 85,
+  "sec_per_epoch": 2.4845352172851562,
+  "accuracy": 0.5544747081712063,
+  "precision": 0.5655369464360707,
+  "recall": 0.543631682724204,
+  "f1": 0.5448461585542874
+}
